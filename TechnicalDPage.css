@@ -1,0 +1,27 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.flex-container{
+    display: flex;
+}
+
+#nav{
+    border: 1px solid gray;
+    background-color: bisque;
+}
+
+.link{
+    border: 1px solid gray;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+
+a{
+    text-decoration: none;
+}
+#main-doc{
+    background-color: azure;
+}
